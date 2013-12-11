@@ -8,7 +8,7 @@ Homepage: https://github.com/RainMak3r/Rainforest
 
 Package: foxchaser
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends}, ruby
 Description: F0xChas3r is a forensic tool for extracting and viewing internet artifacts from Mozlila Firefox. 
  F0xChas3r is a forensic tool for extracting and viewing internet artifacts from Mozlila Firefox.
  The internet artifacts include bookmark, auto-complete, download, cookie, DomStorage, history,
