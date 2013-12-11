@@ -3,7 +3,7 @@ Upstream-Name: foxchaser
 Source: <url://example.com>
 
 Files: *
-Copyright: 2013 Andy Yang Version
+Copyright: 2013 Andy Yang
 License: GPL-3.0+
 
 Files: debian/*
