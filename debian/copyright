@@ -3,13 +3,12 @@ Upstream-Name: foxchaser
 Source: <url://example.com>
 
 Files: *
-Copyright: <years> <put author's name and email here>
-           <years> <likewise for another author>
+Copyright: 2013 Andy Yang Version
 License: GPL-3.0+
 
 Files: debian/*
-Copyright: 2013 ekristen <ekristen@unknown>
-License: GPL-3.0+
+Copyright: 2013 Erik Kristensen <erik@erikkristensen.com>
+License: MIT License
 
 License: GPL-3.0+
  This program is free software: you can redistribute it and/or modify
